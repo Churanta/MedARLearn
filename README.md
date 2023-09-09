@@ -4,13 +4,13 @@ AR Car Viewer is a mobile application developed using Flutter framework which pr
 ## Screenshots
 ### Click below to watch Video
 [Click here to watch the video](https://youtube.com/shorts/8CiHawyc4zg?feature=share)
-|          Splash          |        Home Page         |
-| :----------------------: | :----------------------: |
-| ![](ScreenShots/M1.jpg) | ![](ScreenShots/M2.jpg) |
-
-|       Mercedes AMG       |       Ford Mastang       |       Ferari SF90        |
+|       Home Screen       |       Dental       |       Dental        |
 | :----------------------: | :----------------------: | :----------------------: |
-| ![](ScreenShots/M3.jpg) | ![](ScreenShots/M4.jpg) | ![](ScreenShots/M5.jpg) |
+| ![](ScreenShots/M1.jpg) | ![](ScreenShots/M2.jpg) | ![](ScreenShots/M3.jpg) |
+
+|       Human Anatomy       |       Human Anatomy       |       Human Anatomy        |
+| :----------------------: | :----------------------: | :----------------------: |
+| ![](ScreenShots/M4.jpg) | ![](ScreenShots/M5.jpg) | ![](ScreenShots/M6.mp4) |
 
 
 ## Features
