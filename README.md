@@ -10,7 +10,7 @@ AR Car Viewer is a mobile application developed using Flutter framework which pr
 
 |       Human Anatomy       |       Human Anatomy       |       Human Anatomy        |
 | :----------------------: | :----------------------: | :----------------------: |
-| ![](ScreenShots/M4.jpg) | ![](ScreenShots/M5.jpg) | ![](ScreenShots/M6.mp4) |
+| ![](ScreenShots/M4.jpg) | ![](ScreenShots/M5.jpg) | ![](ScreenShots/M7.jpg) |
 
 
 ## Features
