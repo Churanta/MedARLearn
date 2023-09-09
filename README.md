@@ -3,7 +3,7 @@
 MedARLearn is a groundbreaking educational initiative at the intersection of medicine and augmented reality (AR). It represents a transformative leap forward in the realm of medical education, leveraging cutting-edge technology to make learning about the human body captivating, accessible, and globally inclusive.
 ## Screenshots
 ### Click below to watch Video
-[Click here to watch the video](https://youtube.com/shorts/8CiHawyc4zg?feature=share)
+[Click here to watch the video](https://youtu.be/i0n3rdbxsAM?si=KLpWBzBk3dsFtuGu)
 |       Home Screen       |       Dental       |       Dental        |
 | :----------------------: | :----------------------: | :----------------------: |
 | ![](ScreenShots/M1.jpg) | ![](ScreenShots/M2.jpg) | ![](ScreenShots/M3.jpg) |
